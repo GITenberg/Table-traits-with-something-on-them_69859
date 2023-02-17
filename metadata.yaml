@@ -1,0 +1,36 @@
+_repo: Table-traits-with-something-on-them_69859
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doran, Dr. (John)
+    aliases:
+    - Doran, John
+    - Doran, Dr. John
+    birthdate: 1807
+    deathdate: 1878
+    gutenberg_agent_id: '44142'
+    url: http://www.gutenberg.org/2009/agents/44142
+    wikipedia: https://en.wikipedia.org/wiki/John_Doran_(writer)
+description: ''
+gutenberg_issued: '2023-01-22'
+identifiers:
+  gutenberg: '69859'
+  lccn: '12031907'
+language: en
+pgterms:marc904: https://archive.org/details/tabletraitswiths1854dora/
+pgterms:marc905: 20210207070540doran
+pgterms:marc906: '1854'
+pgterms:marc907: GB
+production_note: Susan Skinner, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United Kingdom: Richard Bentley,1854.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gastronomy'
+- !lcc 'TX'
+- GITenberg
+title: Table traits, with something on them
+url: http://www.gutenberg.org/ebooks/69859
